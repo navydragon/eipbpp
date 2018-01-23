@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proje",
+				"project_id"
+			],
+			[
+				"p",
+				"project"
+			],
+			[
+				"projec",
+				"projects"
+			],
+			[
+				"fom",
+				"form-control"
+			],
+			[
+				"Cur",
+				"curCourse"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"dia",
+				"dialog_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"dialo",
+				"dialog"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/parts/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 18920,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/parts/home_menu.blade.php",
+			"settings":
+			{
+				"buffer_size": 2748,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/downloads/WB02DSN1B/HTML_BS3/index-portfolio-masonry.html",
+			"settings":
+			{
+				"buffer_size": 23196,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/laragon/www/eipbpp",
+		"/E/laragon/www/eipbpp/resources",
+		"/E/laragon/www/eipbpp/resources/views",
+		"/E/laragon/www/eipbpp/resources/views/parts"
+	],
+	"file_history":
+	[
+		"/E/laragon/www/magister2/app/OurMachinePart.php",
+		"/C/Users/navyd/Downloads/discs_for_masha.html",
+		"/E/laragon/www/magister2/app/Http/Controllers/CalculationStageController.php",
+		"/E/laragon/www/candidate/public/chart.js/samples/index.html",
+		"/E/laragon/www/candidate/node_modules/chart.js/samples/charts/pie.html",
+		"/E/laragon/www/candidate/node_modules/chart.js/samples/index.html",
+		"/E/laragon/www/candidate/app/Http/Controllers/ProjectController.php",
+		"/E/laragon/www/candidate/database/migrations/2017_11_06_073747_create_stages_table.php",
+		"/E/laragon/www/candidate/resources/views/welcome.blade.php",
+		"/E/laragon/www/candidate/resources/views/layout.blade.php",
+		"/E/laragon/www/candidate/vendor/symfony/routing/Route.php",
+		"/E/laragon/www/candidate/database/migrations/2017_11_05_205157_create_projects_table.php",
+		"/E/laragon/www/magister/bootstrap/app.php",
+		"/E/laragon/www/candidate/database/migrations/2017_11_05_195539_create_risk_factors_table.php",
+		"/E/laragon/www/magister2/.env",
+		"//87.249.16.147/web/assets/templates/dialogs/dialog_index.html",
+		"//87.249.16.147/web/assets/templates/dialogs/dialog_show.html",
+		"//87.249.16.147/web/assets/templates/dialogs/dialog_ajax.html",
+		"//87.249.16.147/web/view_doc_main_new.html",
+		"//87.249.16.147/web/assets/templates/my_learning/ych_sem_left.html",
+		"//87.249.16.147/web/new_view_doc_default.html",
+		"//87.249.16.147/web/assets/templates/decanat/decanat_admin_semester.html",
+		"//87.249.16.147/web/assets/templates/home/important_announce.html",
+		"/E/downloads/tb_journal_old.htm",
+		"/E/downloads/tb_journal.htm",
+		"/E/downloads/zhyrnal_bak.htm",
+		"//87.249.16.147/web/assets/templates/my_learning/learning_proc.html",
+		"//87.249.16.147/web/assets/templates/my_learning/my_learning_ajax.html",
+		"//87.249.16.147/web/assets/templates/decanat/decanat_edit_disc.html",
+		"//87.249.16.147/web/assets/templates/user_profile_settings.html",
+		"//87.249.16.147/web/assets/templates/my_learning/ads.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/parts/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2167,
+								2167
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/parts/home_menu.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1438,
+								1438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/downloads/WB02DSN1B/HTML_BS3/index-portfolio-masonry.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								23196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"vendor\\symfony\\routing\\Route.php"
+			],
+			[
+				"impro",
+				"templates\\home\\important_announce.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
