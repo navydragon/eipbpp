@@ -1,0 +1,1 @@
+@extends ('parts/admin/main')
